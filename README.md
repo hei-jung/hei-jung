@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there, My name is Hei-Jung 👋
 
 <div align=center>
 
@@ -6,7 +6,13 @@
 
 </div>
 
+This is my blog: [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hei-jung.github.io/)
 
+#### MY INTERESTS
+
+- C/C++
+- Java
+- Python
 
 <!--
 **hei-jung/hei-jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
