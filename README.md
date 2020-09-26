@@ -10,7 +10,7 @@
 - Smart Farm Solution
 - Smart Factory Solution
 - Biomedical Engineering
-  - escpecially, Image Processing
+  - especially, Image Processing
 
 #### PREFERRED LANGUAGE
 
