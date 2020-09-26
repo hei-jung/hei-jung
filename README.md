@@ -4,15 +4,24 @@
 
 ![Hei-jung's Github Stats](https://github-readme-stats.vercel.app/api?username=hei-jung&show_icons=true&hide_border=true)
 
-This is my blog:
+#### MY INTERESTS
+
+- Smart Farm Solution
+- Smart Factory Solution
+- Biomedical Engineering
+  - escpecially, Image Processing
+
+#### PREFERRED LANGUAGE
+
+- Java
+- Python
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-jung&layout=compact&hide_border=true)](https://github.com/hei-jung)
+
+#### Visit my blog:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hei-jung.github.io/)
 [![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/wkdgpwjd007)
 
-#### MY INTERESTS
-
-- C/C++
-- Java
-- Python
 
 <!--
 **hei-jung/hei-jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
