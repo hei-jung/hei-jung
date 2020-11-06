@@ -9,6 +9,7 @@
 
 - Signal Processing
   - Sensor Data Analytics
+  - Medical Image Processing
 - IoT
   - BCI, BMI
   - HCI
