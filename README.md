@@ -11,6 +11,7 @@
   - Sensor Data Analytics
   - Medical Image Processing
 - IoT
+  - IoMT
   - BCI, BMI
   - HCI
   - Smart Factory / Smart Farm Solutions
