@@ -7,14 +7,10 @@
 
 #### MY INTERESTS
 
-- Signal Processing
-  - Sensor Data Analytics
-  - Medical Image Processing
-- IoT
-  - IoMT
-  - BCI, BMI
-  - HCI
-  - Smart Factory / Smart Farm Solutions
+- Medical Engineering
+  - Data Analytics
+  - Image Processing
+  - IoMT(Internet of Medical Things)
 
 #### PREFERRED LANGUAGE
 
