@@ -8,9 +8,9 @@
 #### MY INTERESTS
 
 - Medical Engineering
-  - Data Analytics
+  - Data Science
+  - Big Data Analysis
   - Image Processing
-  - IoMT(Internet of Medical Things)
 
 #### PREFERRED LANGUAGE
 
