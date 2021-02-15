@@ -7,10 +7,10 @@
 
 #### MY INTERESTS
 
-- Medical Engineering
+- Medical, Healthcare
   - Data Science
   - Big Data Analysis
-  - Image Processing
+  - Machine Learning
 
 #### PREFERRED LANGUAGE
 
