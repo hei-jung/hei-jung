@@ -11,6 +11,7 @@
   - Data Science
   - Big Data Analysis
   - Machine Learning
+  - Imaging/Image Processing
 
 #### PREFERRED LANGUAGE
 
