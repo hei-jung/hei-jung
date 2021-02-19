@@ -8,7 +8,7 @@
 
 </div>
 
-![Hei-jung's Github Stats](https://github-readme-stats.vercel.app/api?username=hei-jung&show_icons=true&hide_border=true)
+![Hei-jung's Github Stats](https://github-readme-stats.vercel.app/api?username=hei-jung&show_icons=true&hide_border=true&theme=dark)
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-jung&layout=compact&hide_border=true)](https://github.com/hei-jung)-->
 
 #### MY INTERESTS
@@ -25,7 +25,7 @@
 - Python
 - C
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-jung&layout=compact&hide_border=true)](https://github.com/hei-jung)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-jung&layout=compact&hide_border=true&theme=dark)](https://github.com/hei-jung)
 
 <!--
 **hei-jung/hei-jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
