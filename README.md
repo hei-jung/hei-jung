@@ -18,6 +18,8 @@
 - Java
 - Python
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-jung)](https://github.com/hei-jung)
+
 #### Visit my blog:
 [![Tech Blog Badge](http://img.shields.io/badge/-Tech%20blog-black?style=flat-square&logo=github&link=https://zzsza.github.io/)](https://hei-jung.github.io/)
 [![naverblog](https://img.shields.io/badge/naverblog-badge?style=flat-square&logo=Blogger&logoColor=white)](http://blog.naver.com/wkdgpwjd007)
