@@ -18,7 +18,7 @@
   - Big Data Analysis
   - Machine Learning
   - Imaging/Image Processing
-
+<!--
 #### PREFERRED LANGUAGE
 
 - Java
@@ -26,7 +26,7 @@
 - C
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-jung&layout=compact&hide_border=true&theme=dark)](https://github.com/hei-jung)
-
+-->
 <!--
 **hei-jung/hei-jung** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
