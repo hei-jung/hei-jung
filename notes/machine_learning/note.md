@@ -102,3 +102,26 @@ cudnn.benchmark = False
 cudnn.deterministic = True
 random.seed(0)
 ```
+
+### Data Augmentation
+
+> TorchIO
+
+[PyTorch-Lightning](https://colab.research.google.com/github/fepegar/torchio-notebooks/blob/main/notebooks/TorchIO_MONAI_PyTorch_Lightning.ipynb#scrollTo=YyVSAc7WnyUj)
+
+[TorchIO를 이용한 3D Segmentation](https://blog.promedius.ai/torchioreul-iyonghan-3d-segmentation/)
+
+cf. [우리가 PyTorch Lightning을 써야 하는 이유](https://baeseongsu.github.io/posts/pytorch-lightning-introduction/)<br>
+
+#### Error solution
+
+[SubjectsDataset](https://torchio.readthedocs.io/data/dataset.html)<br>
+[Image](https://torchio.readthedocs.io/data/image.html)
+
+```
+tensor – If path is not given, tensor must be a 4D torch.Tensor or NumPy array with dimensions .
+```
+
+[`prepare_data_per_node`=True](https://pytorch-lightning.readthedocs.io/en/stable/extensions/datamodules.html#why-do-i-need-a-datamodule)
+
+[How to structure torchio.Subject for regression?](https://github.com/fepegar/torchio/issues/297)
