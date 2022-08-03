@@ -28,7 +28,7 @@
 
 [Model evaluation categories](https://stats.stackexchange.com/questions/187335/validation-error-less-than-training-error)
 
-## Predicting negative values
+### Predicting negative values
 
 <https://www.reddit.com/r/learnmachinelearning/comments/eisotm/what_is_the_best_way_to_deal_with_negative/>
 
