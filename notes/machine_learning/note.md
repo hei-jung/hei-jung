@@ -28,6 +28,16 @@
 
 [Model evaluation categories](https://stats.stackexchange.com/questions/187335/validation-error-less-than-training-error)
 
+### target variable scaling (normalization)
+
+<https://machinelearningmastery.com/how-to-transform-target-variables-for-regression-with-scikit-learn/>
+
+<https://datascience.stackexchange.com/questions/35603/it-is-helpful-to-normalize-target-variables-for-a-regression-neural-network>
+
+<https://stats.stackexchange.com/questions/111467/is-it-necessary-to-scale-the-target-value-in-addition-to-scaling-features-for-re>
+
+<https://stackoverflow.com/questions/45449922/should-you-normalize-outputs-of-a-neural-network-for-regression-tasks>
+
 ### Loss decreasing not properly
 
 [Why is my validation loss lower than my training loss?](https://stackoverflow.com/questions/60126101/why-is-my-validation-loss-lower-than-my-training-loss)
@@ -125,3 +135,5 @@ tensor – If path is not given, tensor must be a 4D torch.Tensor or NumPy array
 [`prepare_data_per_node`=True](https://pytorch-lightning.readthedocs.io/en/stable/extensions/datamodules.html#why-do-i-need-a-datamodule)
 
 [How to structure torchio.Subject for regression?](https://github.com/fepegar/torchio/issues/297)
+
+
