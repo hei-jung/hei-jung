@@ -28,7 +28,17 @@
 
 [Model evaluation categories](https://stats.stackexchange.com/questions/187335/validation-error-less-than-training-error)
 
-### target variable scaling (normalization)
+## Predicting negative values
+
+<https://www.reddit.com/r/learnmachinelearning/comments/eisotm/what_is_the_best_way_to_deal_with_negative/>
+
+<https://discuss.pytorch.org/t/how-can-my-net-produce-negative-outputs-when-i-use-relu/19483/8>
+
+<https://stackoverflow.com/questions/69361678/the-output-of-my-neural-network-is-negative-even-if-i-am-using-relu-on-every-lay>
+
+<https://www.researchgate.net/post/How-can-I-avoid-negative-values-in-the-output-of-a-feedforward-net>
+
+#### target variable scaling (normalization)
 
 <https://machinelearningmastery.com/how-to-transform-target-variables-for-regression-with-scikit-learn/>
 
