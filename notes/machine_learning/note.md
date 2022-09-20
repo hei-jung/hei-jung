@@ -109,6 +109,8 @@ def ensemblePredictions(members, testX):
 
 [여기서 참고](https://velog.io/@jaeha0725/torch-seed-%EA%B0%92-%EA%B3%A0%EC%A0%95)
 
+[파이토치 모델 결과 재구성하기 (Pytorch Reproduction Experiement)](https://tootouch.github.io/experiment/reproduction_pytorch/)
+
 ```python
 import torch
 import random
