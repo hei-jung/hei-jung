@@ -148,4 +148,13 @@ tensor – If path is not given, tensor must be a 4D torch.Tensor or NumPy array
 
 [How to structure torchio.Subject for regression?](https://github.com/fepegar/torchio/issues/297)
 
+### validation loss increasing
+
+https://stackoverflow.com/questions/65213048/why-is-the-validation-loss-and-accuracy-oscillating-that-strong
+
+https://stackoverflow.com/questions/44616841/what-does-it-mean-when-train-and-validation-loss-diverge-from-epoch-1
+
+https://forums.fast.ai/t/determining-when-you-are-overfitting-underfitting-or-just-right/7732/41
+
+https://github.com/keras-team/keras/issues/3755
 
