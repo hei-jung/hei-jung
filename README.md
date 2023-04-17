@@ -5,11 +5,10 @@
 
 #### MY INTERESTS
 
-- Medical, Healthcare
-  - Data Science
-  - Big Data Analysis
-  - Machine Learning
-  - Imaging/Image Processing
+- Data Science
+- Big Data Analysis
+- Machine Learning
+- Imaging/Image Processing
 
 |Languages|ML|Other|
 |---------|--|-----|
