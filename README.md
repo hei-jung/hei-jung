@@ -1,22 +1,19 @@
-### My name is Hei-Jung and I am a graduate student👩🏻‍💻
+<!-- ### My name is Hei-Jung and I am a graduate student👩🏻‍💻 -->
 
 <!--![Hei-jung's Github Stats](https://github-readme-stats.vercel.app/api?username=hei-jung&show_icons=true&hide_border=true&theme=dark)-->
 <!--[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-jung&layout=compact&hide_border=true)](https://github.com/hei-jung)-->
 
-#### MY INTERESTS
+#### MY EXPERIENCES
 
-- Data Science
-- Big Data Analysis
-- Machine Learning
-- Imaging/Image Processing
+**\[Education\]** 이화여자대학교 일반대학원 컴퓨터의학협동과정 (2021.09 ~ 현재)<br>
+**\[Education\]** 엔코아 플레이데이터 자율주행을 위한 임베디드 및 AI 영상분석 컨버전스 SW 개발자 양성과정 (2020.04 ~ 2020.09)<br>
+**\[Activity\]** 한국외대 소프트웨어 동아리 GnuVill(그누빌) (2019.03 ~ 2019.12)<br>
+**\[Activity\]** 컨버전스형 IT 연합동아리 CADI(카디) 6기 (2018.04 ~ 2018.08)<br>
+**\[Education\]** 한국외국어대학교 전자공학과 (2016.02 ~ 2020.02)
 
-|Languages|SQL|ML|
-|---------|---|--|
+|Languages|Database(SQL)|ML|
+|---------|-------------|--|
 |![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)/![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)|![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)|![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)|
-
-|Other|
-|-----|
-|![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) ![Verilog](http://img.shields.io/badge/Verilog-black?style=for-the-badge)|
   
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhei-jung&count_bg=%23F890B2&title_bg=%23838080&icon=&icon_color=%23FFFFFF&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
 [![GitHub](http://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/hei-jung)
