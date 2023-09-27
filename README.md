@@ -20,6 +20,8 @@
 [![GitHub](http://img.shields.io/badge/GitHub-black?style=flat-square&logo=github)](https://github.com/hei-jung)
 [![Blog](https://img.shields.io/badge/Blog-badge?style=flat-square&logo=Naver&logoColor=white)](http://blog.naver.com/wkdgpwjd007)
 
+[포트폴리오 더보기](https://github.com/hei-jung/hei-jung.github.io/blob/master/_pages/about/portfolio.md)
+
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hei-jung&layout=compact&hide_border=true&theme=dark)](https://github.com/hei-jung)
 -->
