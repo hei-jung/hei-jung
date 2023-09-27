@@ -5,8 +5,8 @@
 
 #### MY EXPERIENCES
 
-- **\[Education\]** 이화여자대학교 일반대학원 컴퓨터의학협동과정 (2021.09 ~ 현재)
-  - Studying deep learning based disease prediction as a member of [Medical Imaging and Learning (MIL) Lab](https://mil.ewha.ac.kr/)
+- **\[Education\]** 이화여자대학교 일반대학원 컴퓨터의학협동과정 (2021.09 ~ 2023.08)
+  - Studied deep learning based disease prediction as a member of [Medical Imaging and Learning (MIL) Lab](https://mil.ewha.ac.kr/)
 - **\[Education\]** 엔코아 플레이데이터 자율주행을 위한 임베디드 및 AI 영상분석 컨버전스 SW 개발자 양성과정 (2020.04 ~ 2020.09)
 - **\[Activity\]** 한국외대 소프트웨어 동아리 GnuVill(그누빌) (2019.03 ~ 2019.12)
 - **\[Activity\]** 컨버전스형 IT 연합동아리 CADI(카디) 6기 (2018.04 ~ 2018.08)
