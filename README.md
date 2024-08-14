@@ -5,6 +5,7 @@
 
 #### MY EXPERIENCES
 
+- **\[Career\]** 캐논 메디칼시스템즈 코리아 (2024.02 ~)
 - **\[Education\]** 이화여자대학교 일반대학원 컴퓨터의학협동과정 (2021.09 ~ 2023.08)
   - Studied deep learning based disease prediction as a member of [Medical Imaging and Learning (MIL) Lab](https://mil.ewha.ac.kr/)
 - **\[Education\]** 엔코아 플레이데이터 자율주행을 위한 임베디드 및 AI 영상분석 컨버전스 SW 개발자 양성과정 (2020.04 ~ 2020.09)
